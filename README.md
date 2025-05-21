@@ -38,30 +38,17 @@ ai-chip-journey/
 
 ---
 ## 🎯 Goals | 项目目标
-- 👨‍💻 Help software developers understand AI chip architecture
-  👨‍💻 帮助程序员掌握 AI 芯片架构的核心原理
-
-- 🧠 Bridge software thinking with hardware co-design
-  🧠 将软件思维延伸至芯片与 AI 协同设计
-
-- ⚙️ Understand low-power edge processors, ISA, memory & SoC
-  ⚙️ 掌握低功耗处理器、指令集、内存模型与 SoC 集成
-
-- 💡 Create a simulated edge AI demo chip without tape-out
-  💡 构建无需流片的边缘 AI 芯片 DEMO 项目
+- 👨‍💻 帮助程序员掌握 AI 芯片架构的核心原理
+- 🧠 将软件思维延伸至芯片与 AI 协同设计
+- ⚙️ 掌握低功耗处理器、指令集、内存模型与 SoC 集成
+- 💡 构建无需流片的边缘 AI 芯片 DEMO 项目
 
 ---
 ## ✅ Recommended Background | 推荐前置基础
-- Familiarity with Java / Kotlin / Python / C
-  熟悉 Java、Kotlin、Python、C 等主流语言
-
-- Basic understanding of OS, memory, and I/O
-  具备操作系统、内存模型、I/O 等基础知识
-
-- No prior hardware or circuit design experience required
-  无需电路或硬件设计背景
+- 熟悉 Java、Kotlin、Python、C 等主流语言
+- 具备操作系统、内存模型、I/O 等基础知识
+- 无需电路或硬件设计背景
 
 ---
 ## 📄 License | 许可协议
-- MIT License. Contributions welcome via fork, issue, PR, or star 🚀
-  MIT 协议，欢迎 Fork、提交 Issue 或 PR，也欢迎点 Star ⭐️
+- MIT 协议，欢迎 Fork、提交 Issue 或 PR，也欢迎点 Star ⭐️
