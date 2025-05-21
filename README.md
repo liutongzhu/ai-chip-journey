@@ -18,18 +18,25 @@ This repository offers a structured, self-paced learning roadmap for **software 
 
 ```text
 ai-chip-journey/
-├── week01-computer-basics/        # 计算机系统基础
-├── week02-instruction-set/        # 指令集基础
-├── week03-bus-dma-interrupt/      # 总线、DMA、中断
-├── week04-risc-cisc-assembly/     # RISC/CISC 与汇编语言
-├── week05-06-microarchitecture/   # 微架构原理
-├── week07-08-rtl-verilog/         # RTL 与 Verilog 实战
-├── week09-10-riscv-core-design/   # RISC-V 内核设计
-├── week11-12-soc-integration/     # SoC 集成与模块协同
-├── week13-14-npu-concepts/        # 神经网络处理器概念
-├── week15-16-edge-ai-workloads/   # 边缘 AI 工作负载分析
-├── week17-18-creative-demos/      # 创意 DEMO 项目
-└── resources/                     # 扩展资料与工具推荐
+├── week01-computer-architecture/     # 计算机系统结构基础
+├── week02-cpu-instruction-mechanism/ # CPU 架构深入与指令执行机制
+├── week03-soc-ai-datapath/           # SoC 架构与 AI 数据通路设计基础
+├── week04-model-compute-mapping/     # AI 模型计算原理与芯片结构映射
+├── week05-npu-rtl-basics/            # NPU 核心架构设计与 RTL 实践基础
+├── week06-chip-opt-physical-design/  # 芯片设计优化实践与物理设计基础
+├── week07-memory-system-opt/         # 内存系统优化（SRAM/Cache/Buffer 调度）
+├── week08-model-aware-design/        # 模型感知的硬件协同设计
+├── week09-npu-mini-demo-design/      # 设计第一个 NPU Mini Demo（面向边缘AI）
+├── week10-verilog-npu-submodules/    # Verilog 实现 MiniNPU 子模块（RTL 设计）
+├── week11-rtl-verification-timing/   # RTL 联调、功能验证与时序准备
+├── week12-fpga-deployment/           # MiniNPU 上板准备（FPGA 实现与资源映射）
+├── week13-optimization-lowpower/     # 项目优化（时延、资源、低功耗）
+├── week14-ai-demo-integration/       # AI Demo 集成与功能验证（动作/语音等）
+├── week15-edge-ai-tuning/            # 边缘智能系统联调与功耗优化
+├── week16-product-thinking-design/   # 产品化思维与软硬件协同设计
+├── week17-polish-showcase/           # 项目打磨与成果展示准备
+├── week18-career-closing/            # 面试准备 / 创业计划 / 路线收尾
+└── resources/                         # 扩展资料与工具推荐
 ```
 
 ---
