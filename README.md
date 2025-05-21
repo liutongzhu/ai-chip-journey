@@ -34,6 +34,7 @@ ai-chip-journey/
 ├── week15-16-edge-ai-workloads/   # 边缘 AI 工作负载分析
 ├── week17-18-creative-demos/      # 创意 DEMO 项目
 └── resources/                     # 扩展资料与工具推荐
+```
 
 ---
 ## 🎯 Goals | 项目目标
