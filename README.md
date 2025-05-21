@@ -7,14 +7,10 @@ This repository offers a structured, self-paced learning roadmap for **software 
 
 本仓库为**软件工程师**（如 Android 开发者或通用程序员）提供了一套系统化、可自学的路线，帮助从零入门 **AI 芯片设计**，特别面向 **可穿戴设备**、**边缘计算** 和 **嵌入式智能** 场景。
 
-- ⏱️ 1 hour/day, for 6 months (18 weeks)  
-  ⏱️ 每天 1 小时，持续 6 个月（共 18 周）
-- 🧠 Start from computer systems and architecture  
-  🧠 从计算机系统与架构入手
-- 💡 Learn instruction sets, control/data flow, RTL, NPU, edge AI  
-  💡 涵盖指令集、控制/数据流、RTL、NPU、边缘 AI 等知识
-- 📦 Tailored for those without a hardware background  
-  📦 面向无硬件基础的开发者设计
+- ⏱️ 每天 1 小时，持续 6 个月（共 18 周）
+- 🧠 从计算机系统与架构入手
+- 💡 涵盖指令集、控制/数据流、RTL、NPU、边缘 AI 等知识
+- 📦 面向无硬件基础的开发者设计
 
 ---
 
