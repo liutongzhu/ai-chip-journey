@@ -36,7 +36,7 @@ ai-chip-journey/
 ├── week16-product-thinking-design/   # 产品化思维与软硬件协同设计
 ├── week17-polish-showcase/           # 项目打磨与成果展示准备
 ├── week18-career-closing/            # 面试准备 / 创业计划 / 路线收尾
-└── resources/                         # 扩展资料与工具推荐
+└── resources/                        # 扩展资料与工具推荐
 ```
 
 ---
