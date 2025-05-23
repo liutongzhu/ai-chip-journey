@@ -66,7 +66,9 @@ CMP R0, #10      ; 如果 R0 == 10，则设置零标志位
 
 ; 3. 跳转：条件跳转
 BEQ label_done   ; 如果上一步比较为真，则跳转到 label_done
+```
 
+---
 
 ## ✅ 今日小结
 - ISA 是 CPU 与程序之间的契约
@@ -74,6 +76,7 @@ BEQ label_done   ; 如果上一步比较为真，则跳转到 label_done
 - 汇编语句由“操作码 + 寄存器/常量”构成
 - 基础汇编练习有助于理解硬件如何执行软件指令
 
+---
 ## 🔍 拓展阅读
 - RISC-V ISA Specification (英文)
 - 《Computer Organization and Design》章节：ISA
